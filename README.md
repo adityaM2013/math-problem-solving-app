@@ -269,8 +269,7 @@
         document.write(`
           <div style="position: fixed; top: 0; left: 0; right: 0; padding: 10px; 
                      background: #ffeb3b; color: #000; text-align: center; z-index: 1000;">
-            ⚠️ Development Mode - Ads will only show on live approved domain
-          </div>
+              </div>
         `);
       }
     </script>
